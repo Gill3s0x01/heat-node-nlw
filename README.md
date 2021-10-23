@@ -54,4 +54,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by Rocketseat 👋🏻 &nbsp;[Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+Made with love by [Lorison Gilles](https://lorison-gilles.netlify.app/) 🚀.
+
+Give a ⭐️ if this project helped you!
