@@ -8,15 +8,13 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=Heat&color=8257E5&labelColor=000000" alt="NLW Heat" />
-
    <a href="https://www.linkedin.com/in/lorison-gilles/">
       <img alt="Lorison Gilles" src="https://img.shields.io/badge/-LorisonGilles-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gilles30/heat-node-nlw?color=774DD6">
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/impulse/aula-1/edicao/7">
-    <img src="http://www.w3.org/2000/svg"></img>
+    <img src="https://img.shields.io/static/v1?label=NLW&message=Heat&color=8257E5&labelColor=000000" alt="NLW Heat" />
   </a>
   <a href="https://github.com/Gilles30/happy-nlw3-react/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gilles30/heat-node-nlw?color=774DD6">
